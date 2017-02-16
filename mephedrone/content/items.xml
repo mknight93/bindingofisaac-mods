@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache="damage range speed firedelay shotspeed" name="Mephedrone" description="All stats up... with adverse effects" gfx="mephedrone.png" />
+</items>

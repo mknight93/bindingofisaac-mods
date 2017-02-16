@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>curseofthepowerless</name>
+    <directory>curseofthepowerless</directory>
+    <id>848623150</id>
+    <description>An awfully sadistic curse for people who hate themselves.
+
+Every time you get hit, your active item is completely drained of all of its charges.
+
+Currently the curse is permanently active. I'll look at sorting that out. If you want to ruin your life entirely, enjoy it in its current state!
+
+[b]Stuff to do![/b]
+- Add a banner under each floor name with the curse instead of the fortune teller banner.
+- Set the curse to only have a chance to activate.</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Hazards"/>
+</metadata>

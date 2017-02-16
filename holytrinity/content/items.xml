@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache="" name="Holy Trinity" description="You are god with three divine items" gfx="holyTrinity.png" />
+</items>

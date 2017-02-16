@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Holy Trinity</name>
+    <directory>holytrinity</directory>
+    <id>840714093</id>
+    <description>My first try at lua. Like, ever.
+
+Holy Trinity spawns 3 random super powerful and/or super crazy items after picking it up.
+
+Stuff to do!
+- Angel room spawn only!
+- More silly items in the pool! If you have any suggestions, feel free to throw them at my face in the comments!</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Graphics"/>
+</metadata>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>mephedrone</name>
+    <directory>mephedrone</directory>
+    <id>856227797</id>
+    <description>[b]All stats up... with adverse effects.[/b]
+
+Mephedrone is a silly item that would be completely insane with Scapular and some patience.
+
+Picking the item up gives you an all stats up, but every time you get hit, your stats are randomly raised or lowered.
+
+Mephedrone can appear in a bunch of pools - have a look at the itempools.xml in the mod folder for more information!
+
+[b]Stuff to do![/b]
+- Although I updated the item to only give you the initial stats up once, if you were to pick up a duplicated version of this item, you wouldn't receive the bonus a second time. I'll look into improving that for the future!
+- Maybe tweak the variance a bit so you're not completely fucked over by taking damage. Or don't, depends how everyone feels about pure RNG luck.</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>
